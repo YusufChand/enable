@@ -1,0 +1,27 @@
+<svg width="1280" height="2219" viewBox="0 0 1280 2219" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="106" cy="28" r="6" fill="#DCEBFF"/>
+<mask id="mask0_112_414" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="297" width="246" height="404">
+<rect y="297" width="246" height="404" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_112_414)">
+<circle cx="44.5" cy="499.5" r="198.5" stroke="#6FB90C" stroke-width="2"/>
+<circle cx="44.4999" cy="499.5" r="155.012" stroke="#6FB90C" stroke-width="2"/>
+<circle cx="44.4999" cy="499.5" r="111.525" stroke="#6FB90C" stroke-width="2"/>
+<circle cx="44.5002" cy="499.5" r="68.0368" stroke="#6FB90C" stroke-width="2"/>
+<circle cx="44.5" cy="499.5" r="24.549" stroke="#6FB90C" stroke-width="2"/>
+</g>
+<circle cx="340.5" cy="264.5" r="49.5" fill="#DCEBFF"/>
+<line x1="243.977" y1="262.616" x2="268.172" y2="238.023" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="2" y1="-2" x2="36.4993" y2="-2" transform="matrix(0.701311 0.712856 0.712856 -0.701311 244 210)" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="263.977" y1="262.616" x2="288.172" y2="238.023" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="2" y1="-2" x2="36.4993" y2="-2" transform="matrix(0.701311 0.712856 0.712856 -0.701311 264 210)" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="283.977" y1="262.616" x2="308.172" y2="238.023" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="2" y1="-2" x2="36.4993" y2="-2" transform="matrix(0.701311 0.712856 0.712856 -0.701311 284 210)" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="303.977" y1="262.616" x2="328.172" y2="238.023" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="2" y1="-2" x2="36.4993" y2="-2" transform="matrix(0.701311 0.712856 0.712856 -0.701311 304 210)" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="323.977" y1="262.616" x2="348.172" y2="238.023" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="2" y1="-2" x2="36.4993" y2="-2" transform="matrix(0.701311 0.712856 0.712856 -0.701311 324 210)" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="430" y1="447" x2="430" y2="523" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<line x1="1135" y1="2" x2="1059" y2="1.99999" stroke="#5599FF" stroke-width="4" stroke-linecap="round"/>
+<rect y="1826" width="1280" height="393" fill="#D9D9D9" fill-opacity="0.5"/>
+</svg>
